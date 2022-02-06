@@ -9,7 +9,7 @@
 ## Indice
 
 ## Índice
-- [Modelo Conceptual](#Modelo Conceptual)
+- [Modelo Conceptual](#modelo-conceptual)
 - [Requisitos del proyecto](#Requisitos)
 - [Entidad Relación](#entidad-relación)
 - [Lógico Relacional](#lógico-relacional)
